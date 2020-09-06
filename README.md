@@ -33,7 +33,7 @@ var tlsrequestargs = new TLSRequest.RequestArgs()
 {
     Url = "url of the request",
     Method = "method",
-    Proxy = "proxy (optional)",
+    Proxy = "proxy (optional)", //  http://ip:port or http://user:pass@ip:port
     JA3 = "ja3 (optional)",
     Headers = new System.Collections.Generic.Dictionary<string, string>() //optional
 }
