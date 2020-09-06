@@ -5,6 +5,11 @@ _This project is not official, please feel free to edit as you please_
 # Base Project
 - https://github.com/zedd3v/mytls#readme (Used the Go base from this project, big shoutout to them)
 
+# Setup
+- Install this https://github.com/statianzo/Fleck into your project (used for socketing)
+- Make sure the index.exe for Go is in the same folder as your C# .exe
+- If you want to run in .NET Core, reference the base project and change the index.exe in GoHandler.cs to whatever needs to be launched for your platform
+
 # Features
  - Transfer Custom JA3 tokens via C# Wrapped Go request client
  - Full proxy support (user-pass and ip auth)
@@ -48,7 +53,7 @@ var res = client.Send(tlsrequestargs);
 **Step 5**
 Handle the response
 ```cs
- if (res.Error)
+if (res.Error)
 {
     Console.WriteLine(res.ErrorMessage.Message);
 }
