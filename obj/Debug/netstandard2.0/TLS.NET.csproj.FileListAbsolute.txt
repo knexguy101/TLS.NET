@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\bin\Debug\netstandard2.0\TLS.NET.deps.json
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\bin\Debug\netstandard2.0\TLS.NET.dll
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\obj\Debug\netstandard2.0\TLS.NET.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\obj\Debug\netstandard2.0\TLS.NET.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\obj\Debug\netstandard2.0\TLS.NET.AssemblyInfo.cs
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\bin\Debug\netstandard2.0\golang\index.exe
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\bin\Debug\netstandard2.0\TLS.NET.pdb
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\obj\Debug\netstandard2.0\TLS.NET.dll
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\obj\Debug\netstandard2.0\TLS.NET.pdb
+C:\Users\chris\source\repos\TLS.NET\TLS.NET\obj\Debug\netstandard2.0\TLS.NET.csproj.CoreCompileInputs.cache
